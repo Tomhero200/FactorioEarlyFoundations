@@ -1,1 +1,3 @@
 # FactorioEarlyFoundations
+
+TODO fix readme
