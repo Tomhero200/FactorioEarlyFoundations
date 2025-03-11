@@ -1,6 +1,7 @@
 --data-final-fixes.lua
 if data.raw.technology["space-science-pack"] then
     data.raw.technology["foundation"].unit = {
+        time = 30,
         ingredients =
         {
             { "automation-science-pack", 1 },
